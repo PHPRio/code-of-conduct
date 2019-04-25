@@ -28,7 +28,7 @@ ____________________
 
 # Code of Conduct
 
-This repository contains the {institution} [Code of Conduct](code-of-conduct-EN.md), used at PHPRio website and other events, meetups, and user groups.
+This repository contains the PHPRio [Code of Conduct](code-of-conduct-EN.md), used at PHPRio website and other events, meetups, and user groups.
 
 # License
 
