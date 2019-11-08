@@ -1,3 +1,8 @@
+---
+layout: with_header
+title: Código de Conduta da comunidade do PHPRio
+---
+
 ## Introdução
 
 Este código de conduta se aplica a todos os espaços administrados pela PHPRio, incluindo serviços online como Telegram, IRC, todas as listas públicas e privadas de email, ferramentas de problemas, wikis, blogs, Twitter, e qualquer outro canal de comunicação usado pelas nossas comunidades.
