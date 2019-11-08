@@ -9,7 +9,11 @@ Este código de conduta se aplica a todos os espaços administrados pela PHPRio,
 
 Nós esperamos que este código de conduta seja honrado por todos que participam da comunidade PHPRio formalmente ou informalmente, ou clama qualquer afiliação com a comunidade, em quaisquer atividades relacionadas a mesma.
 
-Este código não está completo, sinta-se encorajado a participar. Apenas lembre-se de mantê-lo bem conciso e amplo, nosso objetivo é criar uma comunidade prolífica onde todos podem sentir-se bem, crescerem como pessoas e ajudar outras.
+Este código não está completo, sinta-se encorajado a participar. Apenas lembre-se de mantê-lo bem conciso e amplo; nosso objetivo é criar uma comunidade prolífica onde todos podem sentir-se bem, crescerem como pessoas e ajudar outras.
+
+## Anúncio de vagas em nossos canais
+- Nossos canais focam em vagas para empregos no Rio de Janeiro e região; seja consciente ao divulgar vagas de fora ou remotas
+- Divulgue a remuneração da vaga - [ajude a quebrar o ciclo vicioso da indústria](#ajude-a-ind%C3%BAstria-a-tornar-se-um-lugar-melhor)
 
 ## Comportamento Esperado
 
@@ -28,8 +32,7 @@ Este código não está completo, sinta-se encorajado a participar. Apenas lembr
 - Perspectiva é diferente de certo/errado, é como você chega lá
 - Debata acerca, mas nunca desvalorize a perspectiva alheia
 ### Seja solidário e cuide dos outros membros
-- Lembra-se quando você começou algo? Cuidar dos outros eleva a comunidade, proporcionando a oportunidade
-de todos aprenderem e compartilhar o conhecimento adquirido
+- Lembra-se quando você começou algo? Cuidar dos outros eleva a comunidade, proporcionando a oportunidade de todos aprenderem e compartilhar o conhecimento adquirido
 ### Seja questionador
 - Ninguém sabe tudo, perguntar mais cedo pode evitar problemas mais tarde
 - O ato de questionar deve ser **encorajado**, somente questionando podemos melhorar
@@ -41,8 +44,7 @@ de todos aprenderem e compartilhar o conhecimento adquirido
 - Convide a comunidade para seu ambiente de trabalho
 - Compartilhe seus problemas, traga casos de estudo
 - Convide os colegas de trabalho a participarem da comunidade, divulgue-a
-- Ao compartilhar uma oferta de emprego, divulgue a remuneração do mesmo: Normalmente as companhias evitam disponibilizar
-tais valores para contratar a oferta mais baixa do mercado. Quebre este ciclo
+- Ao compartilhar uma oferta de emprego, divulgue a remuneração: normalmente as companhias evitam disponibilizar tais valores para contratar a oferta mais baixa do mercado. Quebre este ciclo
 ### Devolva a ajuda que te deram
 - Quando alguém te ajudar, dê feedback, assim todos podem aprender com sua experiência
 
@@ -54,9 +56,8 @@ Pode incluir, mas não se limita, a:
 - Desrespeito a diferenças de opinião
 - Disrupção prolongada de conversas ou outros eventos
 - Intimidação ou bullying (online ou pessoalmente)
-- SPAM - ato de enviar postagens orientadas a marketing/divulgação sem contexto ou mesmo aprovação dos administradores
-é considerado spamming
-- Flood - ato de inundar a interação com mensagens próprias é considerado flooding
+- Spam: o ato de enviar postagens orientadas a marketing/divulgação, sem contexto ou mesmo aprovação dos administradores, é considerado spamming
+- Flood: o ato de inundar a interação com mensagens próprias é considerado flooding
 - Compartilhar ofertas de emprego sem faixa salarial
 
 ## Reportando e ajudando no cumprimento
