@@ -11,7 +11,7 @@ Nós esperamos que este código de conduta seja honrado por todos que participam
 
 Este código não está completo, sinta-se encorajado a participar. Apenas lembre-se de mantê-lo bem conciso e amplo; nosso objetivo é criar uma comunidade prolífica onde todos podem sentir-se bem, crescerem como pessoas e ajudar outras.
 
-## Anúncio de vagas em nossos canais
+## Anúncio próprio de vagas
 - Nossos canais focam em vagas para empregos no Rio de Janeiro e região; seja consciente ao divulgar vagas de fora ou remotas
 - Divulgue a remuneração da vaga - [ajude a quebrar o ciclo vicioso da indústria](#ajude-a-ind%C3%BAstria-a-tornar-se-um-lugar-melhor)
 

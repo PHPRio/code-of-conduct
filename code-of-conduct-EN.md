@@ -6,6 +6,10 @@ We expect this code of conduct to be honored by everyone who participates in the
 
 This code is not complete, feel encouraged to participate. Just remember to maintain the code very concise and broad, our goal is to create a prolific community where everyone can feel good, grow as a person and help others.
 
+## Your own job announcements
+- We're focused in our channels in local job openings; be councious when advertising about external or remote openings
+- Include the budget - [help breaking the industry's vicious cycle](#help-the-industry-become-a-better-place)
+
 ## Expected Behavior
 
 ### Be responsible
@@ -23,8 +27,7 @@ This code is not complete, feel encouraged to participate. Just remember to main
 - Perspective is very different of right / wrong, but about how you get there
 - Discuss about, but never put others down
 ### Be supportive and look out for each other
-- Remember when you started something? Taking care of each other guides the community to another level,
-where everyone can learn and share their knowledge
+- Remember when you started something? Taking care of each other guides the community to another level, where everyone can learn and share their knowledge
 ### Be inquisitive
 - Nobody knows everything, asking questions early can avoid problems later
 - Questions must be encouraged, only questioning can show room for improvement
@@ -36,8 +39,7 @@ where everyone can learn and share their knowledge
 - Invite the community inside your workplace
 - Share your problems, bring cases
 - Invite your coworkers to participate
-- When sharing a work offer, put the job's budget: Usually companies avoid sharing them to leverage the
-market by the lowest offer. Break this cycle
+- When sharing a work offer, put the job's budget: Usually companies avoid sharing them to leverage the market by the lowest offer. Break this cycle
 ### Give it back
 - When someone helps you, give feedback, so everyone can learn with your experience
 
@@ -50,12 +52,12 @@ Harassment may include but not limited to the following:
 - Sustained disruption of talks or other events
 - Intimidation or bullying (online or in-person)
 - SPAM - the act of sending marketing oriented posts without context or even approval from the admins is considered spamming
-- Flood - the act of inundate a source of interaction with messages of your own is considered flooding
+- Flood - the act of inundating a source of interaction with messages of your own is considered flooding
 - Sharing work offers without budget
 
 ## Reporting and Enforcement
 
-- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by email faleconosco@phprio.org
+- If you are the subject of, or witness to any violations of this Code of Conduct, please contact us by email at faleconosco@phprio.org
 - If necessary, PHPRio staff are empowered to take appropriate actions that may include, but are not limited to, warnings, expulsion from the community, and referrals to local law enforcement.
 
 Portions derived from the [Docker Code of Conduct](https://github.com/docker/code-of-conduct) and [The Apache Foundation](https://www.apache.org/foundation/policies/conduct)
