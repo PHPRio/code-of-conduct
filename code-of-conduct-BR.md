@@ -40,6 +40,7 @@ Este código não está completo, sinta-se encorajado a participar. Apenas lembr
 - Todo mundo possui outras atividades além da comunidade
 - Escrever mensaagens concisas ajuda o entendimento e economiza tempo dos demais
 - Tente manter dentro do tópico discutido, especialmente nos tópicos longos
+- Siga o prinícipio [_Don't ask to ask_](https://dontasktoask.com/)
 ### Ajude a indústria a tornar-se um lugar melhor
 - Convide a comunidade para seu ambiente de trabalho
 - Compartilhe seus problemas, traga casos de estudo
