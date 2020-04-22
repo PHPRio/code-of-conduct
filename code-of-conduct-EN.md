@@ -35,6 +35,7 @@ This code is not complete, feel encouraged to participate. Just remember to main
 - Everyone has another activity besides the community itself
 - Writing concise messages can help the understanding and saves time
 - Try to maintain inside the discussion topic, especially those large ones
+- [Don't ask to ask](https://dontasktoask.com/)
 ### Help the industry become a better place
 - Invite the community inside your workplace
 - Share your problems, bring cases
